@@ -1,0 +1,9 @@
+App.xbf
+MainPage.xbf
+Scenario1_FilePlayback.xbf
+Scenario2_DeviceCapture.xbf
+Scenario3_FrameInputNode.xbf
+Scenario4_Submix.xbf
+Scenario5_InboxEffects.xbf
+Scenario6_CustomEffects.xbf
+Styles\Styles.xbf

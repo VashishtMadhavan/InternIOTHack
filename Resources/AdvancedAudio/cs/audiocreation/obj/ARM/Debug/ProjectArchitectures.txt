@@ -1,0 +1,2 @@
+C:\Users\sthuang\Desktop\Windows-universal-samples-master\audiocreation\cs\AudioCreation\AudioCreation.csproj;arm
+C:\Users\sthuang\Desktop\Windows-universal-samples-master\audiocreation\cs\CustomEffect\CustomEffect.csproj;arm
